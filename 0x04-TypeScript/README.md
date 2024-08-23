@@ -1,1 +1,1 @@
-poss
+type script
